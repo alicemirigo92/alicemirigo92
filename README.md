@@ -8,7 +8,7 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 
 *   🌍  I'm based in Nairobi,Kenya
 *   ✉️  You can contact me at [alicemirigo92@gmail.com](mailto:alicemirigo92@gmail.com)
-*   🧠  I'm learning I'm learning Front-end development, JavaScript, Ruby on Rails
+*   🧠  I'm learning Front-end development, JavaScript, Ruby on Rails
 *   🤝  I'm open to collaborating on I'm open to collaborating on any kind of projects
 *   ⚡  "A coder so promising, computers ask for autographs."### Skills 
 <p align="left">
