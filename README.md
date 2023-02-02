@@ -9,7 +9,7 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 *   🌍  I'm based in Nairobi,Kenya
 *   ✉️  You can contact me at [alicemirigo92@gmail.com](mailto:alicemirigo92@gmail.com)
 *   🧠  I'm learning Front-end development, JavaScript, Ruby on Rails
-*   🤝  I'm open to collaborating on I'm open to collaborating on any kind of projects
+*   🤝  I'm open to collaborating on any kind of projects
 *   ⚡  "A coder so promising, computers ask for autographs."### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
