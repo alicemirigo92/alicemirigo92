@@ -6,6 +6,7 @@ Junior Web Developer, Programmer.
 
 A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse and learning new things. <img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
 
+🔭 I’m currently working on Portfolio Project(https://github.com/alicemirigo92/my-portfolio)
 *   🌍  I'm based in Nairobi,Kenya
 *   ✉️  You can contact me at [alicemirigo92@gmail.com](mailto:alicemirigo92@gmail.com)
 *   🧠  I'm learning Front-end development, JavaScript, Ruby on Rails
